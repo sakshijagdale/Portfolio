@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Quiz App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An interactive Quiz App using HTML, CSS, and JavaScript, featuring multiple-choice questions, instant scoring, and a clean, responsive design. Challenge yourself and track your progress!",
+    url: "https://github.com/sakshijagdale/Quiz-App",
   },
   {
-    title: "Web Development for Beginners",
+    title: "To-Do List",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A fully functional To-Do List app built with HTML, CSS, and JavaScript, designed to help users manage their tasks effectively. Features include adding tasks with a single click, editing existing tasks, marking tasks as complete, and deleting tasks when no longer needed. The app provides a simple, clean interface and is responsive, making it accessible on any device. It's a practical tool to stay organized and improve productivity in daily life.",
+    url: "https://github.com/sakshijagdale/To-Do-List",
   },
   {
-    title: "My Resume Site",
+    title: "Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A responsive and dynamic portfolio built with React, HTML, CSS, and JavaScript, showcasing my skills, projects, and experience in web development. The portfolio highlights my expertise in creating interactive and user-friendly applications, with smooth navigation and clean design. Explore my work, learn about my journey, and connect with me for collaborations or opportunities!",
+    url: "https://github.com/sakshijagdale/Portfolio",
   },
   {
     title: "GitHub Codespaces and github.dev",

@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://sakshijagdale.github.io/Portfolio",
+  "homepage": "https://sakshijagdale.github.io/Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sakshijagdale.github.io/Portfolio'",
+    "build-gh": "parcel build --public-url 'https://sakshijagdale.github.io/Pot'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
